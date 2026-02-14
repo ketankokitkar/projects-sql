@@ -76,5 +76,6 @@ Ketan Kokitkar
 SQL & Data Analytics Enthusiast  
 
 ⭐ If you found this project useful, feel free to star the repository!
-🔙 **[Back to all sql projects](../README.md)**
+
+🔙 **[Back to all sql projects](../projects-sql/blob/main/README.md)**
 
