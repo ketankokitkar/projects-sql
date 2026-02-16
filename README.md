@@ -3,3 +3,4 @@ A curated repository of projects built to strengthen technical skills, explore n
 
 1. Netflix Data Analysis - https://github.com/ketankokitkar/projects-sql/tree/netflix-sql-project
 2. Spotify Data Analysis - https://github.com/ketankokitkar/projects-sql/tree/spotify-sql-project
+3. Coffee Shop Data Analysis - https://github.com/ketankokitkar/projects-sql/tree/coffee_shop-sql-project
